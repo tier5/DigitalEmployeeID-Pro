@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Debug Digital Employee ID Pro</string>
+    <string name="title_activity_show_badge">ShowBadge</string>
+</resources>
